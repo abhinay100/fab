@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "floatingaction"
-include(":app")
- 
+rootProject.name = "fabproject"
+include ':app'

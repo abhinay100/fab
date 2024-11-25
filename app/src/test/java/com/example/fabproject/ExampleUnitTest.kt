@@ -1,4 +1,4 @@
-package com.example.floatingaction
+package com.example.fabproject
 
 import org.junit.Test
 
